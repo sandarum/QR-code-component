@@ -21,7 +21,7 @@ img{
 }
 
 body{
-    background-color: lightgray;
+    background-color: hsl(212, 45%, 89%);;
     margin: 0;
 
 }
@@ -32,7 +32,7 @@ body{
     height: 497px;
     padding: 1rem;
     border-radius: 4%;
-    margin: 15rem auto;
+    margin: 10rem auto;
     font-family: 'Outfit', sans-serif;
     text-align: center;
 }
@@ -41,9 +41,11 @@ p {
     margin: 1rem;
     font-weight: 400;
     font-size: 15px;
+    color: hsl(220, 15%, 55%);
 }
 
 .outer > p:first-of-type {
     font-weight: 700;
     font-size: 22px;
+    color: hsl(218, 44%, 22%);
 }
