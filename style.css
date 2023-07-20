@@ -27,7 +27,7 @@ body{
 }
 
 .outer{
-    background-color: #F2F2F2;
+    background-color: hsl(0, 0%, 100%);
     width: 320px;
     height: 497px;
     padding: 1rem;
